@@ -3,7 +3,6 @@
    and interactive UIs using modern frameworks.
   
 - 👩🏻‍💻Technologies I Work With:
-
    Languages: JavaScript, TypeScript, HTML, CSS.
    Frameworks and libraries: React, Next.js, Vue.
    Design Systems: Material UI, Bootstrap, TailwindCSS,Vuetify etc.
